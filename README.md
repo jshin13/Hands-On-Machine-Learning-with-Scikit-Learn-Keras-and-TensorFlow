@@ -2,6 +2,8 @@
 This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein
 <br>
 
+<img src="cover.png">
+
 I. The Fundamentals of Machine Learning
 1. The Machine Learning Landscape
 2. End-to-End Machine Learning Project
