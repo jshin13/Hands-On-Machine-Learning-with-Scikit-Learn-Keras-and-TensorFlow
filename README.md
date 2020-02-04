@@ -41,20 +41,78 @@ II. Neural Networks and Deep Learning
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td>Building R Packages</td>
+    <td></td>
     <td>In progress</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td>Building Data Visualization Tools</td>
+    <td></td>
     <td>In progress</td>
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td>Mastering Software Development in R Capstone</td>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>  <tr>
+    <td></td>
     <td>In progress</td>
     <td><a href=""></a></td>
   </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>In progress</td>
+    <td><a href=""></a></td>
+  </tr>
+  
 </table>
   
 by Jong M. Shin
