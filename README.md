@@ -1,4 +1,4 @@
-# Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
+# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition
 This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein
 <br>
 
