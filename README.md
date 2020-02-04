@@ -1,6 +1,7 @@
 # Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow
 This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein
-/*
+<br>
+
 I. The Fundamentals of Machine Learning
 1. The Machine Learning Landscape
 2. End-to-End Machine Learning Project
@@ -22,7 +23,7 @@ II. Neural Networks and Deep Learning
 17. Representation Learning and Generative Learning Using Autoencoders and GANs
 18. Reinforcement Learning
 19. Training and Deploying TensorFlow Models at Scale
-*/
+<br>
 
 <table>
   <tr>
