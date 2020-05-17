@@ -1,8 +1,12 @@
-# Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition
-This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein
-<br>
+<img src="cover.png" height=40% width=40%>
 
-<img src="cover.png" height=4% width=40%>
+This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein<br>
+
+# Introduction
+
+Coding practicals are shown in Jupyter notebook saved in practicals folder.
+
+# Content Table
 
 I. The Fundamentals of Machine Learning
 
@@ -28,96 +32,3 @@ II. Neural Networks and Deep Learning
 17. Representation Learning and Generative Learning Using Autoencoders and GANs
 18. Reinforcement Learning
 19. Training and Deploying TensorFlow Models at Scale
-
-<br>
-
-<table>
-  <tr>
-    <th>Module name</th>
-    <th>Completed date</th>
-    <th>Certificate</th>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href="https://www.coursera.org/account/accomplishments/certificate/V7W27VZPETE5"></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>In progress</td>
-    <td><a href=""></a></td>
-  </tr>
-  
-</table>
