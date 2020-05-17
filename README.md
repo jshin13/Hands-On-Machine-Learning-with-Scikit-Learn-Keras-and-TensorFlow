@@ -1,10 +1,8 @@
-<img src="cover.png" height=40% width=40%>
-
-This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein<br>
-
 # Introduction
 
 The purpose of this assignment was to demonstrate programming language competency and comprehensive understanding of scikit learn API in various bioinformatic applications. Coding practicals were followed as instructed in *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems 2nd Edition*, and shown in Jupyter notebook. Additionally contained in this repository are study notes, book equations, and helpful compilations of coding examples on numpy, pandas, and matplotlib.
+
+This project was completed in partial fulfillment of the requirement for EN.601.509(50) advised by Dr. Joshua Vogelstein
 
 # Derivated Projects
 
@@ -15,6 +13,8 @@ Following short projects are derived from the use of scikit-learn API (latest fi
 3. <a href='https://github.com/jshin13/BIOF399_FINAL_PRJ/blob/master/BIOF399_FINAL_PRJ.ipynb'>HIV status prediction from quantitative antibody profiles that consists of 11 antigen panels</a>
 
 # Content Table
+
+<img src="cover.png" height=40% width=40%>
 
 I. The Fundamentals of Machine Learning
 
