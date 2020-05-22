@@ -16,6 +16,8 @@ Following short projects are derived from the use of scikit-learn API (latest fi
 
 I initially went through the book without deeply going into mathematical background or in-depth coding implementation. As I read through the book, I made my own study notes on Jupyter notebook to refer back to what I thought was important, which I still update as I revisit the book. Following that, I carefully purused the chapter codes and disassembled them to understand the functionality of each command. On the side, I bolstered my understanding by delving into mathematical derivations behind statistical operations, thanks to Intro to Probability by Anderson and Valko. Lastly, the projects I listed above utilize what I learned from this book.
 
+edit: I added the complete library list of scikit-learn API in the book. This part is still work in progress. (5/22/2020)
+ 
 # My thoughts
 
 This is definitely a great reference for anyone who wants to introduce ML into their work scheme. Particularly, this has been a fabulous introduction to TensorFlow.V2 which now allows more freedom to users than what V1 had permitted. Whether it be a simple regressor training or extensive MLP with a huge dataset, this book can guide you through mathematical complexity to build your own ML algorithm in a most effortless manner. On that note, this has become my ultimate guideline of how to ML with scikit-learn and TF, and simply my favorite book on ML. My other favorite book in the field of AI is a book called Deep Learning (Adaptive Computation and Machine Learning series) by Goodfellow.
