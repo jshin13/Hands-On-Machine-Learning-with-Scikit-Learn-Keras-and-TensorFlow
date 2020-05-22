@@ -16,7 +16,7 @@ Following short projects are derived from the use of scikit-learn API (latest fi
 
 I initially went through the book without deeply going into mathematical background or in-depth coding implementation. As I read through the book, I made my own study notes on Jupyter notebook to refer back to what I thought was important, which I still update as I revisit the book. Following that, I carefully purused the chapter codes and disassembled them to understand the functionality of each command. On the side, I bolstered my understanding by delving into mathematical derivations behind statistical operations, thanks to Intro to Probability by Anderson and Valko. Lastly, the projects I listed above utilize what I learned from this book.
 
-edit: I added the complete library list of scikit-learn API in the book. This part is still work in progress. (5/22/2020)
+edit: I am writing sample codes to demonstrate a complete library list of scikit-learn API in the book. This part is still work in progress. (5/22/2020)
  
 # My thoughts
 
